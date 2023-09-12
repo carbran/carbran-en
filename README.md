@@ -3,6 +3,8 @@
     <img height="240" width="480" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN25wZ290NjBzdnVxYmh5bHZ3dGY0MnVuYTRwdXV3b2N6cHdyY21jZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif"/>
 </div>
 
+*Quer ver em português? Clique <a href="https://github.com/carbran/carbran-en">aqui</a>*
+
 ## Who am I?
 
 Hello, my name is Fernando, but you can call me Carbran. I have a degree in computer science from PUC GO.
