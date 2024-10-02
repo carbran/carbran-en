@@ -24,8 +24,9 @@ I'm in the process of reorganizing my Github to let it match my development plan
 [![Instagram](https://img.shields.io/badge/Instagram-f30976?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brandaofernando96/)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-075e54?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5562981516888)
 [![Steam](https://img.shields.io/badge/Steam-000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/carbran/)
-<!--[![Discord](https://img.shields.io/badge/Discord-6A5ACD?style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/in/carbran/)-->
-<!--[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-000?style=for-the-badge)](https://www.dio.me/users/brandao_fernando96)-->
+[![Gmail](https://img.shields.io/badge/Gmail-DC143C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brandao.fernando96@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-6A5ACD?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/240856521569730561)
+<!-- [![Perfil DIO](https://img.shields.io/badge/Meu_perfil_D_I_O-0a0a0a?style=for-the-badge)](https://www.dio.me/users/brandao_fernando96) -->
 
 ## Tecnologies
 <div style="display: flex; justify-content: left; width:100%;">
@@ -38,8 +39,7 @@ I'm in the process of reorganizing my Github to let it match my development plan
     <a src="https://www.javascript.com/"><img src="https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" width="45" hspace=8 vspace=10/></a>
     <a src="https://flutter.dev/"><img src="https://img.icons8.com/color/48/000000/flutter.png" vspace=10/></a>
     <a src="https://git-scm.com"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width=50 vspace=10/></a>
-    <!-- <a src="https://docs.github.com/pt"><img src="https://static-00.iconduck.com/assets.00/github-icon-256x249-eb1fu3cu.png" width=50 vspace=10/></a>
-    <a src="https://about.gitlab.com"><img src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png" width=50 hspace=8 vspace=10/></a> -->
+    <a href="https://www.java.com/en/download/help/whatis_java.html"><img src="https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000" width="65" 
 </div>
 
 ## Github
